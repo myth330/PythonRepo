@@ -5,7 +5,7 @@ def sum(a, b, c=0, d=None, e=0):
         total += d
     return total
 
-# x = int(input())
+x = int(input())
 # y = int(input())
 # z = int(input())
 # print(sum(a=x, c=z, e=y, b=None, d=None))
